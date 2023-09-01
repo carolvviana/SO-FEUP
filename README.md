@@ -1,6 +1,6 @@
 # Projeto de Avaliação
 ## Sistemas Operativos
-### 1º Semestre, 2º ano, 2022/2023
+### 2º ano, 1º Semestre, 2022/2023
 
 - Membros:
   - Carolina Viana
